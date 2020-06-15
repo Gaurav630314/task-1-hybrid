@@ -1,4 +1,4 @@
-welcome to yash khandelwal cloud
+welcome to Gaurav Rathi cloud
 <img src="http://d387teja7ib4br.cloudfront.net/terraform.png"/>
 <br />
 <pre>
